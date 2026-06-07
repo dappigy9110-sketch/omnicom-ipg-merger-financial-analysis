@@ -21,6 +21,13 @@ Key variables include:
 - Operating Income
 - Net Income
 
+## Data Validation Note
+
+The financial figures in this project are currently used as a preliminary dataset for analysis development.  
+Before using this project for formal academic or professional purposes, the data should be validated against official annual reports, SEC filings, or company investor relations materials.
+
+For advertising holding companies, revenue definitions may differ across sources.  
+Future versions of this project will further clarify whether the analysis uses total revenue, net revenue, or another comparable revenue measure.
 ## Metrics Analyzed
 
 The project calculates the following financial metrics:
