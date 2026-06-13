@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project analyzes the financial performance of Omnicom and IPG before their merger.  
-The goal is to understand the financial logic behind the merger by comparing revenue trends, profitability margins, and combined revenue scale.
+The goal is to understand the financial logic behind the merger by comparing comparable revenue trends, profitability margins, and combined comparable revenue scale.
 
 ## Business Question
 
@@ -17,7 +17,7 @@ Key variables include:
 
 - Company
 - Year
-- Revenue
+- Comparable Revenue
 - Operating Income
 - Net Income
 
@@ -34,7 +34,7 @@ The project calculates the following financial metrics:
 
 - Operating Margin %
 - Net Margin %
-- Combined Revenue
+- Combined Comparable Revenue
 
 ## Tools Used
 
@@ -62,14 +62,14 @@ corporate-financial-analytics
 
 ## Visualizations
 
-### Omnicom vs IPG Revenue Trend
+### Omnicom vs IPG Comparable Revenue Trend
 
-![Omnicom vs IPG Revenue Trend](./charts/omnicom_ipg_revenue_trend.png)
+![Omnicom vs IPG Comparable Revenue Trend](./charts/omnicom_ipg_revenue_trend.png)
 
 ### Omnicom vs IPG Margin Trend
 
 ![Omnicom vs IPG Margin Trend](./charts/omnicom_ipg_margin_trend.png)
 
-### Combined Revenue Trend
+### Combined Comparable Revenue Trend
 
-![Combined Revenue Trend](./charts/combined_revenue_trend.png)
+![Combined Comparable Revenue Trend](./charts/combined_revenue_trend.png)
