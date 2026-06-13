@@ -1,4 +1,4 @@
-Company,Year,Revenue,Operating_Income,Net_Income,Operating_Margin_%,Net_Margin_%
+Company,Year,Comparable_Revenue,Operating_Income,Net_Income,Operating_Margin_%,Net_Margin_%
 Omnicom,2020,13171.1,1762.0,945.4,13.38,7.18
 Omnicom,2021,14289.1,2121.7,1407.8,14.85,9.85
 Omnicom,2022,14289.4,2023.2,1316.2,14.16,9.21
